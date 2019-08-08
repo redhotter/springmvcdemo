@@ -8,6 +8,11 @@
 </head>
 <body>
 	<a href="hello">注册</a>
+<<<<<<< HEAD
 	
+=======
+	<input type="submit" value="提交"/>
+	<a>你好</a>
+>>>>>>> branch 'master' of git@github.com:redhotter/springmvcdemo.git
 </body>
 </html>
