@@ -8,5 +8,6 @@
 </head>
 <body>
 	<a href="hello">注册</a>
+	<input type="submit" value="提交"/>
 </body>
 </html>
